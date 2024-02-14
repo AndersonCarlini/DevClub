@@ -6,6 +6,9 @@
 
 <img src="https://github.com/AndersonCarlini/DevClub/blob/Master/HTML/Projeto%201%20CSS/Easy%20Shopping.png?raw=true">
 
+<br>
+<br>
+
 <h2>Esta é a versão para Celulares!!!</h2>
 
 <img src="https://github.com/AndersonCarlini/DevClub/blob/Master/HTML/Projeto%201%20CSS/Easy%20Shopping%20Cel.png?raw=true">
